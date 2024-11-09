@@ -5,7 +5,7 @@
 
 trigger: none
 pool:
-  vmImage: default
+  vmImage: jyothi
 steps:
 - task: Maven@3
   inputs:
